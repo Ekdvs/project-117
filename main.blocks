@@ -16,4 +16,10 @@
         # . . . # 
         . # . # . 
         . . # . .
-        `</field><next><block type="device_pause" id="lB-x{-QwTY!|DgjM#yEF"><value name="pause"><shadow type="timePicker" id="[i:yq@Z:C!2Enw^3503_"><field name="ms">100</field></shadow></value></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="lB-x{-QwTY!|DgjM#yEF"><value name="pause"><shadow type="timePicker" id="[i:yq@Z:C!2Enw^3503_"><field name="ms">100</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="=eyIxlnbGR^._wwHqz~f" disabled-reasons="MANUALLY_DISABLED" x="-226" y="284"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="@xS~EY|sMwtR2sG+*wP+" disabled-reasons="MANUALLY_DISABLED"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # # # # # 
+        . . . # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="/!1iGF9EOYK6@I[5s@t/" disabled-reasons="MANUALLY_DISABLED"><value name="pause"><shadow type="timePicker" id="%%H%D]uV6#=)wVnm|)xQ" disabled-reasons="MANUALLY_DISABLED"><field name="ms">100</field></shadow></value></block></next></block></statement></block></xml>
